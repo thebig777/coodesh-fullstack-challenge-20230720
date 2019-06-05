@@ -1,0 +1,104 @@
+{  
+   "Aparelho" : {
+      "name": "Samsung Galaxy S8" 
+   },
+
+   "plans":[  
+      {  
+         "idproduto_categoria":9273,
+         "id":483,
+         "type":"pos",
+         "name":"Família 50GB",
+         "phonePrice":2199,
+         "installments":12,
+         "monthly_fee":299,
+         "schedule":{  
+            "startDate":"2019-06-23 00:00"
+         },
+         "localidade": {
+            "nome": "BRASIL",
+            "prioridade" : 1
+         }
+      },
+      {  
+         "idproduto_categoria":9273,
+         "id":393,
+         "type":"controle",
+         "name":"Controle",
+         "phonePrice":899,
+         "installments":12,
+         "monthly_fee":59.99,
+         "schedule":{  
+            "startDate":"2019-04-23 00:00"
+         },
+         "localidade": {
+            "nome": "MINAS GERAIS",
+            "prioridade" : 2
+         }
+      },
+      {  
+         "idproduto_categoria":9273,
+         "id":393,
+         "type":"controle",
+         "name":"Controle",
+         "phonePrice":799,
+         "installments":12,
+         "monthly_fee":49.99,
+         "schedule":{  
+            "startDate":"2019-05-22 00:00"
+         },
+         "localidade": {
+            "nome": "MINAS GERAIS",
+            "prioridade" : 2
+         }
+      },
+      {  
+         "idproduto_categoria":9273,
+         "id":483,
+         "type":"pos",
+         "name":"Família 50GB",
+         "phonePrice":5,
+         "installments":12,
+         "monthly_fee":2,
+         "schedule":{  
+            "startDate":"2019-05-23 00:00"
+         },
+         "localidade": {
+            "nome": "MINAS GERAIS",
+            "prioridade" : 2
+         }
+      },
+      {  
+         "idproduto_categoria":9273,
+         "id":393,
+         "type":"controle",
+         "name":"Controle",
+         "phonePrice":14,
+         "installments":12,
+         "monthly_fee":11,
+         "schedule":{  
+            "startDate":"2019-05-23 00:00"
+         },
+         "localidade": {
+            "nome": "MINAS GERAIS",
+            "prioridade" : 2
+         }
+      },
+      {  
+         "idproduto_categoria":9273,
+         "id":483,
+         "type":"pos",
+         "name":"Família 50GB",
+         "phonePrice":4199,
+         "installments":12,
+         "monthly_fee":799,
+         "schedule":{  
+            "startDate":"2019-05-23 00:00"
+         },
+         "localidade": {
+            "nome": "BELO HORIZONTE",
+            "prioridade" : 3
+         }
+      }  
+   ]
+}
