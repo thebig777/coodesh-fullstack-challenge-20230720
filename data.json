@@ -61,7 +61,7 @@
          "installments":12,
          "monthly_fee":39.99,
          "schedule":{  
-            "startDate":"2020-01-01 00:00"
+            "startDate":"2022-01-01 00:00"
          },
          "localidade": {
             "nome": "MINAS GERAIS",
