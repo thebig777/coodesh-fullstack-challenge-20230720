@@ -15,7 +15,18 @@ Este sistema se encarrega de exibir preço dos planos vendidos junto aos aparelh
 
 Repositório: [https://bitbucket.org/4yousee/avaliacao-desenvolvedor](https://bitbucket.org/4yousee/avaliacao-desenvolvedor)
 
-\* Descrito no documento de avaliação. 
+\* Descrito no documento de avaliação.
+
+
+# Critérios de aceitação
+Repositório: [https://bitbucket.org/4yousee/avaliacao-desenvolvedor](https://bitbucket.org/4yousee/avaliacao-desenvolvedor)
+
+O candidato deverá escrever um programa que receberá uma lista de planos(data.json) e deverá retornar a lista filtrada baseada nos critérios abaixo:
+
+- O sistema só poderá exibir planos que tenham schedule.startDate válidos, ou seja, menor que a data atual.
+- O sistema só poderá exibir 1 única vez planos que tenham os mesmos : name, localidade dando preferência quem possuir o schedule.startDate mais recente.
+- Note que o campo localidade possui uma hierarquia (PAÍS -> ESTADO -> CIDADE). Esta hierarquia deverá ser respeitada, de maneira que a cidade terá maior prioridade que estado e  país. O sistema só poderá exibir 1 única vez planos que tenham os mesmos : name  dando preferência a hierarquia de localidades.
+
 
 # Critérios de avaliação
 
