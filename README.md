@@ -12,13 +12,6 @@ Este sistema se encarrega de exibir preço dos planos vendidos junto aos aparelh
 
 
 # Critérios de aceitação
-
-Repositório: [https://bitbucket.org/4yousee/avaliacao-desenvolvedor](https://bitbucket.org/4yousee/avaliacao-desenvolvedor)
-
-\* Descrito no documento de avaliação.
-
-
-# Critérios de aceitação
 Repositório: [https://bitbucket.org/4yousee/avaliacao-desenvolvedor](https://bitbucket.org/4yousee/avaliacao-desenvolvedor)
 
 O candidato deverá escrever um programa que receberá uma lista de planos(data.json) e deverá retornar a lista filtrada baseada nos critérios abaixo:
