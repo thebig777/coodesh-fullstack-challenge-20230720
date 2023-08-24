@@ -9,13 +9,16 @@ O objetivo deste teste é resolver um problema real de um dos sistemas mantidos 
 
 ## Executando o projeto
  1. Clone o projeto
-	 ```git clone https://github.com/thebig777/coodesh-fullstack-challenge-20230720.git```
+	 
+	- ```git clone https://github.com/thebig777/coodesh-fullstack-challenge-20230720.git```
  2. Entre na raiz do projeto
-	  ```cd coodesh-fullstack-challenge-20230720```
+	 
+	 - ```cd coodesh-fullstack-challenge-20230720```
  3. Execute o projeto
-    ``` php index.php ```
+   
+	 - ``` php index.php ```
     
-## Sugentões de melhorias do JSON
+## Sugestões de melhorias do JSON
 - Padronização do idioma nas propriedades;
 - Padronização "snake_case" nas propriedades;
 - Padronização  das casas decimais em valores monetários, adicionando ".00".
