@@ -20,7 +20,7 @@ class JsonReader {
             return $var->schedule->startDate < $currentDate;
         });
 
-        // Ordenamdo pela data mais recente
+        // Ordenando pela data mais recente
         usort($resources, function($a, $b) {
             return $a->schedule->startDate < $b->schedule->startDate ? 1 : -1;
         });
